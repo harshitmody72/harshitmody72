@@ -9,7 +9,7 @@
 
 Below are some factors I’m currently busy with:
 - 🌱 I’m currently android app developer 
-- 👯 When I bored from coding , I keep myself busy in playing games and watching movies
+- 👯 When I bored from coding, I keep myself busy in playing games and watching movies
 - 📫 Connect with me : **harshitmody72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
