@@ -78,17 +78,4 @@ My name is **Harshit Mody**, and I have completed my **B.Tech from JECRC Jaipur*
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitmody72&theme=radical&show_icons=true&locale=en&layout=compact" alt="harshitmody72" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitmody72&theme=radical&show_icons=true&locale=en" alt="harshitmody72" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitmody72&theme=radical" alt="harshitmody72" />
-</p>
