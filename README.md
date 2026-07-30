@@ -7,9 +7,18 @@
 Building AI-First SaaS Products, Enterprise AI Systems & Intelligent Automation
 
 <p>
-  <a href="https://github.com/harshitmody72">
-    <img src="https://komarev.com/ghpvc/?username=harshitmody72&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://www.linkedin.com/in/harshitmody72/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="mailto:harshitmody72@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/harshitmody72">
+    <img src="https://img.shields.io/github/followers/harshitmody72?style=for-the-badge"/>
+  </a>
+
 </p>
 
 </div>
@@ -18,19 +27,21 @@ Building AI-First SaaS Products, Enterprise AI Systems & Intelligent Automation
 
 # 🚀 About Me
 
-I'm an AI Engineer focused on building intelligent software powered by **AI Agents**, **LLMs**, **Generative AI**, and scalable backend systems.
+I'm an AI Engineer passionate about building intelligent software powered by **AI Agents**, **Large Language Models (LLMs)**, **Generative AI**, and scalable backend systems.
 
-My engineering journey began in blockchain infrastructure, where I built **50+ production-grade blockchain products**. Today, I specialize in designing enterprise AI applications that combine autonomous agents, workflow automation, RAG pipelines, and modern full-stack architecture.
+My engineering journey began in blockchain infrastructure, where I built and delivered **50+ production blockchain applications**. Today, my focus is designing AI-first products that automate complex workflows through autonomous agents, enterprise AI systems, and modern software architecture.
 
-I enjoy solving complex engineering problems and building products from idea to production.
+I enjoy taking products from **idea → architecture → development → production**.
 
 ---
 
-# 💼 Professional Journey
+# 💼 Experience
 
 ## 🧠 AI Engineer — Enthu.AI
 
-Currently leading AI-first engineering initiatives by building:
+Leading AI-first engineering initiatives focused on enterprise automation.
+
+### Building
 
 - AI Agents
 - Enterprise LLM Applications
@@ -41,7 +52,7 @@ Currently leading AI-first engineering initiatives by building:
 - MCP Integrations
 - Full-Stack AI Applications
 
-**Tech**
+### Technologies
 
 OpenAI • Gemini • Node.js • React • TypeScript • PostgreSQL • MongoDB • Redis
 
@@ -49,145 +60,136 @@ OpenAI • Gemini • Node.js • React • TypeScript • PostgreSQL • MongoD
 
 ## 🚀 Ex Co-Founder — Aagent.ai
 
-Built an AI-powered chain abstraction platform that enables users to perform cross-chain blockchain interactions using natural language.
+Built an AI-powered chain abstraction platform enabling users to interact with multiple blockchain networks using natural language.
 
-Highlights
+### Highlights
 
 - Autonomous AI Agents
 - Chain Abstraction
-- Unified Multi-chain Balances
+- Unified Multi-chain Balance
 - One Signature Transactions
 - Cross-chain Execution
-- LiFi
-- Biconomy
 - Smart Contracts
 - Backend Architecture
+- LiFi
+- Biconomy
 
 ---
 
 ## ⛓️ Blockchain & Backend Engineer — Codebird Technologies
 
-Designed, developed and deployed **50+ blockchain products**.
+Delivered **50+ blockchain products** from architecture to production.
 
-Worked across
+### Projects Included
 
-- DeFi
+- DeFi Protocols
 - NFT Marketplaces
 - Token Launchpads
 - Cross-chain Bridges
 - Staking Platforms
-- Telegram Bots
-- Trading Automation
+- Telegram Trading Bots
+- Automated Trading Systems
 - Private Blockchains
-- ERC-4337
-- ERC-6551
-- Smart Contracts
-- Backend Systems
+- ERC-4337 Wallets
+- ERC-6551 Token Bound Accounts
 
 ---
 
-# ⚙️ Tech Stack
+# 🚀 Featured Projects
 
-## AI
+## 🤖 AI Agents
+
+Enterprise AI agents that automate workflows using LLMs, RAG, APIs, and tool calling.
+
+---
+
+## 🧠 Enterprise AI
+
+Production-ready AI applications powered by OpenAI, Gemini, and modern AI frameworks.
+
+---
+
+## 📚 RAG Systems
+
+Knowledge retrieval systems with vector databases and intelligent search.
+
+---
+
+## 🌐 AI-First SaaS
+
+Scalable SaaS products built using React, Node.js, PostgreSQL, and cloud-native architecture.
+
+---
+
+## 🔗 Chain Abstraction
+
+Cross-chain blockchain interactions with unified balances and single-signature execution.
+
+---
+
+## ⛓️ Smart Contracts
+
+Production-grade Solidity and Rust smart contracts powering DeFi and Web3 applications.
+
+---
+
+# 🛠 Tech Stack
+
+### AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-blue?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-green?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-purple?style=flat-square)
+
+---
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
 
-OpenAI • Gemini • AI Agents • LLMs • RAG • LangGraph • MCP • Prompt Engineering • Vector Databases
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,java,rust,solidity"/>
+
+</p>
 
 ---
 
-## Backend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,express,postgres,mongodb,redis" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+
 </p>
 
 ---
 
-## Frontend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=express,postgres,mongodb,redis"/>
+
 </p>
 
 ---
 
-## Blockchain
+### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=solidity,rust" />
-</p>
 
-Ethereum • Solana • Near • Tezos • Web3 • DeFi • Smart Contracts
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp"/>
 
----
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🌱 Currently Exploring
 
-🤖 AI Agents
-
-Building autonomous AI systems for enterprise workflow automation.
-
----
-
-📚 RAG & Knowledge Systems
-
-Enterprise search, retrieval, and intelligent document assistants.
-
----
-
-🌐 AI-First SaaS
-
-Designing scalable AI-native products from the ground up.
-
----
-
-🔗 Chain Abstraction
-
-Simplifying blockchain interactions through AI-powered automation.
-
----
-
-⚡ Intelligent Automation
-
-Combining AI, APIs, and backend systems to automate business workflows.
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitmody72&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitmody72&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=harshitmody72&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-- Multi-Agent Systems
 - Agentic AI
+- Multi-Agent Systems
 - Voice AI
 - LangGraph
 - Model Context Protocol (MCP)
@@ -200,7 +202,7 @@ Combining AI, APIs, and backend systems to automate business workflows.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/harshitmody72">
+<a href="https://www.linkedin.com/in/harshitmody72/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
@@ -214,6 +216,6 @@ Combining AI, APIs, and backend systems to automate business workflows.
 
 <div align="center">
 
-### 💡 Building intelligent software that combines AI, automation, scalable engineering, and exceptional developer experience.
+### 💡 "Building intelligent software that combines AI, automation, and scalable engineering."
 
 </div>
